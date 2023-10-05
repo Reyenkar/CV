@@ -1,33 +1,48 @@
 # CV
+<h1>Reyen Karaouzenen</h1>
+
 avatar:
 
-Nom: Reyen karaouzene
+<image src= "https://www.cartoonize.net/svgavatars/temp-avatars/svgA6580801289205784.png" width="500" height= "500">
 
-Age: 16
+Nom: 
+
+Reyen karaouzene
+
+Age:
+
+16
 
 eleve de premiere au LiL
 
-Nationalite: Francais et Anglais
+Nationalite: 
 
-ocupation: fottball apres les cours
+Francais et Anglais
 
-Habitation: Londre pour etudier
+ocupation: 
 
-j habite ici depuis 11 ans preques 12.
+fottball apres les cours
+
+Habitation: 
+
+Londre pour etudier
+
 
  Mes principaux interets sont les echecs:
 
- ![image](https://github.com/Reyenkar/CV/assets/146172530/76a916eb-6039-40f9-a3c8-d458c3dcfecf)
+<image src="https://media.istockphoto.com/id/1310674496/photo/hand-moving-white-pawn-and-making-first-step.webp?b=1&s=612x612&w=0&k=20&c=v_i1rqZ6ZrleZ9IG_aPASG1frC12ibpbJ10HLhOV0y4=" width="500" height= "500">
 
 Aussi le foot:
 
-![image](https://github.com/Reyenkar/CV/assets/146172530/5372d6ec-273d-46bd-a708-af0f622093f8)
+<image src= "https://media.istockphoto.com/id/502133933/photo/dramatic-soccer-stadium.webp?b=1&s=612x612&w=0&k=20&c=m_Xl--CEWzGPh7xEZ0M-ZLuYAj6TK8ymh__3LmCSAWE= " width="500" height= "500">
+
 
 Aussi la cuisine:
 
-![image](https://github.com/Reyenkar/CV/assets/146172530/30c1682e-597f-41d5-8e7d-de01b81e32b0)
+<image src= "https://media.istockphoto.com/id/1428412216/photo/a-male-chef-pouring-sauce-on-meal.webp?b=1&s=612x612&w=0&k=20&c=O6f05DPG0yuRLpMxTRX5qTv4T8jZLrYMNT0ZePoYnuQ= " width="500" height= "500">
 
-le cinema
-![image](https://github.com/Reyenkar/CV/assets/146172530/bef3648f-c4dd-4296-ab7c-554f3e12e4d2)
+le cinema:
+
+<image src= "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_640.jpg" width="500" height= "500">
 
 
