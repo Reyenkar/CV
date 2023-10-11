@@ -60,3 +60,4 @@ le cinema:
 <image src= "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_640.jpg" width="300" height= "300">
 
 
+convertiseur de decimal a Binaire
