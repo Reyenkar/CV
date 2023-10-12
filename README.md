@@ -60,21 +60,12 @@ le cinema:
 <image src= "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_640.jpg" width="300" height= "300">
 
 
-<!DOCTYPE html>
-<html>
-<body>
+<h2>Convert Binary to Decimal</h2>
 
-<h2>JavaScript Convert Binary to Decimal</h2>
+<binaire = input("entrez un nombre binaire:">
+<decimal=int(binaire,2)>
+<print("Le nombre binaire",binaire,"corespond a",decimal,"en decimal".)
 
-<p id="demo"></p>
+<h2>Convert Decimal to Binary</h2>
 
-<script>
-document.getElementById("demo").innerHTML = bin2dec(101);
-function bin2dec(bin){
-  return parseInt(bin, 2).toString(10);
-}
-</script>
-
-</body>
-</html>
-
+<binaire = int(input("entrez un nombre binaire:"))>
