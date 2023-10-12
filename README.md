@@ -60,4 +60,21 @@ le cinema:
 <image src= "https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_640.jpg" width="300" height= "300">
 
 
-convertiseur de decimal a Binaire
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Convert Binary to Decimal</h2>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = bin2dec(101);
+function bin2dec(bin){
+  return parseInt(bin, 2).toString(10);
+}
+</script>
+
+</body>
+</html>
+
