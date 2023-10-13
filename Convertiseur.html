@@ -1,0 +1,56 @@
+<!DOCTYPE html> 
+<html> 
+    <body>
+        <div class="everything">
+            <h1>Binary and Decimal Converter</h1>
+    
+            <div id="binaryToDecimal">
+                <h2>Binary to Decimal</h2>
+    
+    
+                <input type="text" id="binaryInput" placeholder="Enter binary number">
+                <button onclick="convertBinaryToDecimal()">Convert</button>
+    
+                <p id="binaryToDecimalResult"></p>
+            </div>
+    
+            <div id="decimalToBinary">
+                <h2>Decimal to Binary</h2>
+            
+    
+                <input type="number" id="decimalInput" placeholder="Enter decimal number">
+                <button onclick="convertDecimalToBinary()">Convert</button>
+    
+                <p id="decimalToBinaryResult"></p>
+            </div>
+    
+            <script>
+                function convertBinaryToDecimal() {
+                    const binaryInput = document.getElementById("binaryInput").value;
+                    const decimalValue = parseInt(binaryInput, 2);
+    
+                    if (!isNaN(decimalValue)) {
+                        document.getElementById("binaryToDecimalResult").innerHTML = `Decimal Value: ${decimalValue}`;
+                    } else {
+                        document.getElementById("binaryToDecimalResult").innerHTML = "Invalid binary input";
+                    }
+                }
+    
+                function convertDecimalToBinary() {
+                    const decimalInput = document.getElementById("decimalInput").value;
+                    const binaryValue = (decimalInput >>> 0).toString(2);
+    
+                    if (!isNaN(binaryValue)) {
+                        document.getElementById("decimalToBinaryResult").innerHTML = `Binary Value: ${binaryValue}`;
+                    } else {
+                        document.getElementById("decimalToBinaryResult").innerHTML = "Invalid decimal input";
+                    }
+                }
+            </script>
+        </div>
+         <a href="">
+      <button>Page Principale</button>
+    </a>
+    </body>
+    
+    </html></div>
