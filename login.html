@@ -1,7 +1,12 @@
 <!DOCTYPE html> 
 <html> <head> 
         <title>Login</title> </head> 
-        <body> <h1>Bienvenue sur ma page Login</h1></html>
+        <body> 
+        <h1>Bienvenue sur ma page Login</h1>
+        <p>Entrez votre mot de passe</p>
+        <input type="password" id="passwordInput" placeholder="Password">
+        <button onclick="login()">Login</button>
+        <p id="loginMessage"></p>
 <script>
         function login() {
             var password = document.getElementById("passwordInput").value;
